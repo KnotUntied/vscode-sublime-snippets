@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[/**
+ *
+ */
+constructor() {
+	super();
+	$0
+}]]></content>
+	<tabTrigger>ctor</tabTrigger>
+	<scope>source.js meta.class.js, source.jsx meta.class.js, source.ts meta.class.js, source.tsx meta.class.js</scope>
+	<description>Constructor</description>
+</snippet>

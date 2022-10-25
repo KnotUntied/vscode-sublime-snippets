@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[if __name__ == "__main__":
+	${1:pass}]]></content>
+	<tabTrigger>main</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>If-Main Condition</description>
+</snippet>

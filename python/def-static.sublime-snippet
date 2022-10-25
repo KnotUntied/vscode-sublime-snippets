@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[@staticmethod
+def ${1:funcname}(${2:parameter_list}):
+	"""
+	${3:docstring}
+	"""
+	${4:pass}]]></content>
+	<tabTrigger>defs</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Static Class Method</description>
+</snippet>

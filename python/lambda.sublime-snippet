@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lambda ${1:parameter_list}: ${2:expression}]]></content>
+	<tabTrigger>lambda</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Lambda Statement</description>
+</snippet>

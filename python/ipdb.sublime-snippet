@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[import ipdb; ipdb.set_trace()]]></content>
+	<tabTrigger>ipdb</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>ipdb Debug</description>
+</snippet>

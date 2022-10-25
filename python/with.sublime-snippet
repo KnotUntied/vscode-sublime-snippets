@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[with ${1:expression} as ${2:target}:
+	${3:pass}]]></content>
+	<tabTrigger>with</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>With Statement</description>
+</snippet>

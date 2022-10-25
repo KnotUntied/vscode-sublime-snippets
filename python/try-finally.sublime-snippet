@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[try:
+	${1:pass}
+finally:
+	${2:pass}]]></content>
+	<tabTrigger>tryf</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Try-Finally Statement</description>
+</snippet>

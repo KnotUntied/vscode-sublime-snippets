@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[if ${1:condition}:
+	${2:pass}
+else:
+	${3:pass}]]></content>
+	<tabTrigger>ife</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>If-Else Condition</description>
+</snippet>

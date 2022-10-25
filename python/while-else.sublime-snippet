@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[while ${1:expression}:
+	${2:pass}
+else:
+	${3:pass}]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>While Loop with Else</description>
+</snippet>

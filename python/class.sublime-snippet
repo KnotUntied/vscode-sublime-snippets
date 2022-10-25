@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[class ${1:classname}(${2:object}):
+	"""
+	${3:docstring}
+	"""
+	${4:pass}]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Class</description>
+</snippet>

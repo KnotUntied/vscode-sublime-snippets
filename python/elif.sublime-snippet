@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[elif ${1:expression}:
+	${2:pass}]]></content>
+	<tabTrigger>elif</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Elif Condition</description>
+</snippet>

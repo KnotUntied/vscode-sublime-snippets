@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[try:
+	${1:pass}
+except ${2:expression} as ${3:identifier}:
+	${4:pass}
+else:
+	${5:pass}
+finally:
+	${6:pass}]]></content>
+	<tabTrigger>tryeef</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Try-Except-Else-Finally Statement</description>
+</snippet>

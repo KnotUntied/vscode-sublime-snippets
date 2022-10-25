@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[for ${1:target_list} in ${2:expression_list}:
+	${3:pass}]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>For Loop</description>
+</snippet>

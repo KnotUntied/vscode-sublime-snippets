@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[else:
+	${1:pass}]]></content>
+	<tabTrigger>else</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Else Condition</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[async for ${1:target} in ${2:iter}:
+	${3:pass}
+else:
+	${4:pass}]]></content>
+	<tabTrigger>afore</tabTrigger>
+	<scope>source.python - meta.function.parameters - meta.function-call - meta.statement - meta.mapping - meta.sequence - meta.set - comment - string</scope>
+	<description>Async For Loop with Else</description>
+</snippet>

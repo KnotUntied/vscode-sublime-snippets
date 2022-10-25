@@ -2,7 +2,7 @@
 	<content><![CDATA[for await (const ${1:iterator} of ${2:object}) {
 	$TM_SELECTED_TEXT$0
 }]]></content>
-	<tabTrigger>forawaitof</tabTrigger>
+	<tabTrigger>for</tabTrigger>
 	<scope>source.js, source.jsx, source.ts, source.tsx</scope>
 	<description>For-Await-Of Loop</description>
 </snippet>
